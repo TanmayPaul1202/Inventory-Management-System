@@ -1,0 +1,15 @@
+asgiref
+black
+click
+colorama
+mypy-extensions
+pathspec
+platformdirs
+pytz
+regex
+sqlparse
+tomli
+typing-extensions
+six
+pandas
+openpyxl
